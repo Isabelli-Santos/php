@@ -1,5 +1,5 @@
 <?php
 
-echo "hollo";
+echo "e ai patin";
 
 ?>
